@@ -1,0 +1,6 @@
+@eCommerceOrders.SendEmail_HostAddress = http://localhost:5045
+
+GET {{eCommerceOrders.SendEmail_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
